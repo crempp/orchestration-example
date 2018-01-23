@@ -1,0 +1,8 @@
+*.tfstate
+*.backup
+*.retry
+ansible-digital_ocean.cache
+inventories/generated
+terraform.tfvars
+.idea_modules/
+.idea/
